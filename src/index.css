@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+    @apply antialiased bg-zinc-900 text-zinc-100 font-[IBM_Plex_Mono];
+}
+
+/* Text */
+.titulo {
+    @apply text-3xl font-bold leading-relaxed;
+}
+
+/* Navegation */
+nav > ul > li {
+    @apply transition duration-300 ease-in-out;
+}
+nav > ul > li {
+    @apply px-4 py-2 hover:bg-zinc-800 cursor-pointer;
+}
