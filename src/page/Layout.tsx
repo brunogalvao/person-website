@@ -2,7 +2,7 @@ import Header from "@/components/Header";
 
 const Layout = () => {
   return (
-    <div className="w-xl mx-auto bg-teal-500">
+    <div className="w-sm-3xl w-5/6 mx-auto ">
       <Header />
     </div>
   );
