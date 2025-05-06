@@ -4,7 +4,6 @@ import Layout from "./page/Layout";
 function App() {
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
-      {/* {children} */}
       <Layout />
     </ThemeProvider>
   );

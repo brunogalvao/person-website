@@ -3,6 +3,14 @@
 Novo site pessoal.
 
 
+## **Lib de Animação**
+
+Biblioteca de animação com integração total com shadcn-ui e tailwindcss.
+
+```
+https://animate-ui.com/docs/effects/motion-effect
+```
+
 ## Font
 
 A font escolhida será o IBM Plex Mono.
@@ -40,4 +48,16 @@ Titulo
 
 ```
 <small>Legendas</small>
+```
+
+#### **Link referência**
+
+```
+https://stevedylan.dev
+```
+
+outro link interressante.
+
+```
+https://hiamalif.netlify.app.
 ```
